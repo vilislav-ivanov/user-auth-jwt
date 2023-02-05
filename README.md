@@ -1,6 +1,6 @@
 ## Usage
 
-Use package manager [yarn](https://yarnpkg.com/) [npm](https://www.npmjs.com/) to install dependencies.
+Use package manager [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/) to install dependencies.
 
 ```bash
 yarn install
