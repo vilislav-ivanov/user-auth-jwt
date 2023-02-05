@@ -7,7 +7,8 @@ yarn install
 # npm install
 ```
 
-#Config
+## Configure
+
 Create file config/default.ts in the root of the app. Containing the following properties:
 
 ```javascript
